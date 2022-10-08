@@ -1,0 +1,17 @@
+# Telegram
+Pyrogram
+aiogram
+
+# Database
+SQLAlchemy
+
+# Debug
+pylint_runner
+loguru
+
+# Other
+asyncio
+tgcrypto
+
+#Payment
+yookassa
